@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name_constraint">Constraint Layout</string>
+    <string name="app_name_relative">Relative Layout</string>
+    <string name="app_name_linear">Linear Layout</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+    <string name="location">Location:</string>
+    <string name="distance_from_ust">Distance from UST:</string>
+    <string name="title">Title</string>
+    <string name="todo">TODO</string>
+    <string name="cemetery">cemetery</string>
+
+</resources>
